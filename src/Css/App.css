@@ -1,0 +1,90 @@
+@import url('./FakeContent.css');
+@import url('./Canvas.css');
+@import url('./SVG_TEST.css');
+@import url('http://fonts.cdnfonts.com/css/candela');
+@import url('./Section1_Intro.css');
+@import url('./Section2_PinkDrink.css');
+@import url('./Section3_History.css');
+@import url('./Section4_Cocktails.css');
+@import url('./Section5_Contacts.css');
+@import url('./Header.css');
+@import url('./SmoothScrolling.css');
+@import url('./ScrollIndiactor.css');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body{
+
+  font-family: 'Candela Book', sans-serif;
+  font-family: 'Candela Bold', sans-serif;
+}
+
+.App{
+  background-image: url('../Assets/images/texture.jpg');
+}
+
+.plus{
+  width: 90px;
+  position: fixed;
+  top: 40px;
+  left: 6%;
+}
+.div__spinner{
+  position: fixed;
+  bottom: 40px;
+  right: 80px;
+}
+
+.p_in_spinner{
+  width: 40px;
+  position: fixed;
+  bottom: 30px;
+  right: 25px;
+}
+
+::-moz-selection{
+  color: rgb(255, 145, 163);
+  background-color: transparent;}
+::selection{
+  color: rgb(255, 145, 163);
+  background-color: transparent;
+}
+
+/* #cursor{
+  display: none;
+  width: 11px;
+  height: 11px;
+  background-color: rgb(255, 145, 163);
+  border-radius: 50%;
+  position:absolute;
+
+} */
+
+
+.AppNoise{
+  background-image: url('../Assets/images/noise5.png');
+  animation: animate 0.5s steps(6) infinite;
+}
+
+@keyframes animate{
+  0%
+  {
+    background-position: 0 0;
+  }
+  100%
+  {
+    background-position: 100% 100%;
+
+  }
+}

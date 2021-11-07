@@ -1,0 +1,14 @@
+.canvas{
+    pointer-events: none;
+    display: none;
+    position: fixed;
+    height: 95%;
+    width: 95%;
+    margin-left: 55%;
+    top: 60px;
+}
+
+.pTest{
+    position: fixed;
+    top:20px
+}

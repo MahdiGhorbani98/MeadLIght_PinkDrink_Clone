@@ -1,0 +1,133 @@
+.Section5_Contacts_Container{
+    margin-top: 0px;
+    position: relative;
+    /* margin-bottom: 1000px; */
+}
+/* .forDebyg{
+    height: 10px;
+    overflow: hidden;
+} */
+.btnHeader1{
+    pointer-events: none;
+    cursor: default;
+}
+.Section5_Contacts{
+    margin-left: 23%;
+    color: #585863;
+    position: relative;
+    
+    /* height: 912px; */
+    /* overflow-x: hidden; */
+    
+}
+
+.roseS5{
+    padding-top: 50px;
+    width: 150px;
+    position: relative;
+    top: +00px;
+    left: -170px;
+    /* opacity: 0; */
+}
+
+
+.pHeader__s5{
+    margin-top: 40px;
+    /* margin-left: 40px; */
+    font-size: 18px;
+}
+
+.pBold__s5{
+    /* width: 40%; */
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+.pCaption__s5{
+    margin-top: 30px;
+    font-size: 16px;
+    color: #91919b;
+    width: 45%;
+}
+
+.hand_01{
+    position: absolute;
+    left: 435px;
+    top: 75px;
+    width: 692px;
+}
+
+.Info{
+    /* margin-left: 6% !important; */
+    height:191px;
+    margin: 60px 0 0 0;
+
+
+}
+.socials{
+    margin-left: 50px;
+    width: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    line-height: 2.5;
+}
+.email{
+    line-height: 2.5;
+    color: #7a7a7c;
+    text-decoration: none;
+}
+.linkedin{
+    color: #7a7a7c;
+    text-decoration: none;
+
+}
+/* .email a {
+    text-decoration: none;
+} */
+
+.pureInfo{
+    background-color: transparent;
+    padding: 20px 20px 20px 0;
+    display: flex;
+    border: none;
+    cursor: pointer;
+    color: #7a7a7c;
+    position: absolute;
+    left: -150px;
+    margin-top: -8px;
+    /* 
+    margin-left: 6% ; */
+    font-size: 18px;
+}
+
+.socials img{
+    position: relative;
+    top: 40px;
+    width: 24px;
+}
+
+.defaultInfo{
+    height: 71px;
+    align-items: baseline;
+    font-size: 14px;
+    color: #7a7a7c;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 60px 0; */
+}
+.altInfo{
+    height: 71px;
+    display: none;
+    font-size: 14px;
+    color: #7a7a7c;
+    width: 80%;
+    /* margin: 60px 0; */
+}
+
+.plusInfo{
+    margin-right: 10px;
+}

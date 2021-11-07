@@ -1,0 +1,63 @@
+.Section1_Intro_Container{
+    display: flex;
+    align-items: flex-start;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+}
+.Section1_Intro {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 190px;
+    margin-left: 18%;
+}
+
+.Intro_p{
+    color: #727279;
+}
+.Intro_h1{
+    font-size: 5.6rem;
+    color: #3e3a34;
+    font-weight: 900;
+    line-height: 1.2;
+}
+
+.hero{
+    overflow-x: hidden;
+    position: relative;
+    left: 170px;
+    width: 506px;
+    margin-top: 190px;
+}
+
+.bdiSec1{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -25px;
+}
+
+.div__scroll_to_dicover{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 201;
+    bottom: 80px;
+    left: 80px;
+    cursor: pointer;
+}
+
+.line__before__scroll{
+    background-color: #c7c7ca;
+    height: 1px;
+    width: 40px;
+    margin-right: 15px;
+}
+
+.scroll__to__discover{
+    color: #8f8f96;
+    font-size: 16px;
+    font-weight: 100;
+    text-decoration: none;
+}

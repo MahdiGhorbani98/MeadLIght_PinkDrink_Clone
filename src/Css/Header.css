@@ -1,0 +1,77 @@
+.header_Container{
+    /* display: flex;
+    flex-direction: column; */
+    opacity: 0;
+    position:fixed;
+    z-index: 200;
+    top: 170px;
+    left: 34px;
+    padding: 40px 40px 10px 0;
+}
+
+.btnHeader{
+    text-decoration: none;
+    cursor: pointer;
+    width: 125px;
+    height: 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    /* justify-content: center; */
+    margin-bottom: 70px;
+}
+.btn__Header{
+    margin-right: 75px;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+}
+
+
+
+.title_90deg{
+    transform: rotateZ(-90deg);
+    margin-right: 0px;
+    width: 100px;
+    position: relative;
+    top:-33px;
+    color: #525252;
+}
+
+
+
+.title_90deg__Intro{
+}
+.title_90deg__PinkDrink{
+    top: -22px !important;
+    opacity: 0;
+}
+.title_90deg__History{
+    opacity: 0;
+}
+.title_90deg__Cocktails{
+    top: -22px !important;
+    opacity: 0;
+}
+.title_90deg__Contacts{
+    top: -22px !important;
+    opacity: 0;
+}
+
+
+.btnHeader1{
+    cursor:default;
+}
+.btnHeader2{
+    cursor: pointer;
+}
+.btnHeader3{
+    cursor: pointer;
+}
+.btnHeader4{
+    cursor: pointer;
+}
+.btnHeader5{
+    cursor: pointer;
+}
+
+

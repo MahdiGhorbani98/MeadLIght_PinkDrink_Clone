@@ -1,0 +1,125 @@
+@import url('./Section4_btnSlider.css');
+
+.Section4_Cocktails_Container{
+    margin-top: 600px;
+    margin-bottom: 600px;
+    position: relative;
+    overflow-x: clip;
+}
+.Section4_Cocktails{
+    margin-left: 23%;
+    color: #585863;
+    position: relative;
+    height: 912px;
+    /* overflow-x: hidden; */
+    
+}
+.articles_S4{
+    overflow: hidden;
+
+}
+
+.Container_01_S4{
+    /* margin-left: 40px; */
+    margin-top: -350px;
+}
+.div__01_S4{
+    display: flex;
+    font-size: 28px;
+    position: relative;
+    top: 75px;
+    margin-left: 27px;
+}
+
+.pHeader__s4{
+    margin-top: 40px;
+    /* margin-left: 40px; */
+    font-size: 18px;
+    margin-bottom: 0px;
+
+}
+
+.pBold__s4{
+    /* width: 40%; */
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+.pCaption__s4{
+    margin-top: 30px;
+    font-size: 16px;
+    color: #91919b;
+    width: 45%;
+}
+ .red_04{
+    position: absolute;
+    left: 600px;
+    top: -80px;
+    width: 138.2px;
+    opacity: 0.9;
+}
+ .ghiaccio_00{
+    z-index: -5;
+    position: absolute;
+    left: 30px;
+    top: 240px;
+    width: 107.5px;
+    opacity: 0.9;
+}
+ .ghiaccio_01{
+    z-index: -5;
+    position: absolute;
+    right: -30px;
+    top: 60px;
+    width: 107.5px;
+    opacity: 0.9;
+}
+ .frenchie_00{
+    z-index: -5;
+    position: absolute;
+    right: 337px;
+    top: 273px;
+    width: 200px;
+    opacity: 0.9;
+}
+ .frenchie_01{
+    z-index: -5;
+    position: absolute;
+    right: -45px;
+    top: 360px;
+    width: 200px;
+    opacity: 0.9;
+}
+ .mexicano_02{
+    z-index: -5;
+    position: absolute;
+    left: 215px;
+    top: 470px;
+    width: 154px;
+    opacity: 0.9;
+}
+ .rosmarino_01{
+    z-index: -5;
+    position: absolute;
+    right: 160px;
+    top: 650px;
+    width: 123px;
+    opacity: 0.9;
+}
+/*
+.story_01{
+    position: relative;
+    left: 605px;
+    top: -215px;
+    width: 307px;
+} */
+
+
+.defaultImgs{
+    width: 100%;
+    height: 912px;
+    position:absolute;
+    top:0
+}
+
+

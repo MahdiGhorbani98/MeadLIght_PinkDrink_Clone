@@ -1,0 +1,230 @@
+.Section4_Cocktails{
+    z-index: 200;
+}
+.btnContainer{
+    width: 65%;
+}
+
+.btnSlider{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.borderBottom{
+    height: 1px;
+    background-color:rgba(192, 192, 192, 0.493);
+}
+
+.plusSlider{
+    font-weight: normal;
+    font-size: 20px;
+    color: rgb(153, 153, 153);
+    /* cursor: pointer; */
+}
+.captionContainer_s4{
+    overflow: hidden;
+    height: 0px;
+    display: none;
+}
+.compounds{
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.flex_title_caption_s4{
+    width: 65%;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: flex-start;
+    margin-bottom: 35px;
+
+}
+.title_btnSlider_s4{
+    width: 60px;
+    font-weight: bold;
+}
+.caption_btnSlider_s4{
+    margin-left: 10px;
+    font-weight: lighter;
+    color: rgb(153, 153, 153);
+    /* margin-bottom: 40px; */
+}
+
+/* ////////////// 1.imgs_Spritzlight //////////// */
+.spritzlight_01{
+    z-index: -5;
+    position: absolute;
+    right: 8vw;
+    top: 85vh;
+    width: 185px;
+    opacity: 0;
+}
+.spritzlight_02{
+    z-index: -5;
+    position: absolute;
+    right: 29vw;
+    top: 33vh;
+    width: 230px;
+    opacity: 0;
+}
+.spritzlight_03{
+    z-index: -5;
+    position: absolute;
+    right: -4vw;
+    top: 0vh;
+    width: 200px;
+    opacity: 0;
+}
+.ghiaccio_00_Spritzlight{
+    z-index: -5;
+    position: absolute;
+    left: 3vw;
+    top: 47vh;
+    width: 123px;
+    opacity: 0.9;
+    opacity: 0;
+}
+ .ghiaccio_01_Spritzlight{
+    z-index: -5;
+    position: absolute;
+    right: 4vw;
+    top: 50vh;
+    width: 123px;
+    opacity: 0.9;
+    opacity: 0;
+}
+
+/* ////////////// 2.imgs_Principio //////////// */
+.rosmarino_00{
+    z-index: -5;
+    position: absolute;
+    right: 2vw;
+    top: 35vh;
+    width: 154px;
+    opacity: 0;
+}
+.americano_01{
+    z-index: -5;
+    position: absolute;
+    right: 32vw;
+    top: 37vh;
+    width: 338px;
+    opacity: 0;
+}
+.rosmarino_01_Principio{
+    z-index: -5;
+    position: absolute;
+    right: 18vw;
+    top: 87vh;
+    width: 123px;
+    opacity: 0;
+}
+.ghiaccio_00_Principio{
+    z-index: -5;
+    position: absolute;
+    left: 4vw;
+    top: 57vh;
+    width: 123px;
+    opacity: 0;
+}
+.ghiaccio_01_Principio{
+    z-index: -5;
+    position: absolute;
+    right: 23vw;
+    top:17vh;
+    width: 123px;
+    opacity: 0;
+}
+/* ////////////// 3.imgs_Red //////////// */
+.red_04_Red{
+    z-index: -5;
+    position: absolute;
+    right: 40vw;
+    top: 90vh;
+    width: 138px;
+    opacity: 0;
+}
+.red_00{
+    z-index: -5;
+    position: absolute;
+    left: 5vw;
+    top: 95vh;
+    width: 138px;
+    opacity: 0;
+}
+.red_01{
+    z-index: -5;
+    position: absolute;
+    right: 22vw;
+    top: 37vh;
+    width: 169px;
+    opacity: 0;
+}
+.red_02{
+    z-index: -5;
+    position: absolute;
+    right: 10vw;
+    top: 90vh;
+    width: 169px;
+    opacity: 0;
+}
+.ghiaccio_01_Red{
+    z-index: -5;
+    position: absolute;
+    left: 11vw;
+    top:57vh;
+    width: 107px;
+    opacity: 0;
+}
+/* ////////////// 4.imgs_Mead //////////// */
+.rosmarino_00_Mead{
+    z-index: -5;
+    position: absolute;
+    right: 4vw;
+    top: 87vh;
+    width: 184px;
+    opacity: 0;
+}
+.tonica_02{
+    z-index: -5;
+    position: absolute;
+    right: 22vw;
+    top: 39vh;
+    width: 200px;
+    opacity: 0;
+}
+.tonica_03{
+    z-index: -5;
+    position: absolute;
+    left: 5vw;
+    top: 100vh;
+    width: 184px;
+    opacity: 0;
+}
+.ghiaccio_00_Mead{
+    z-index: -5;
+    position: absolute;
+    left: 3vw;
+    top: 55vh;
+    width: 107px;
+    opacity: 0;
+}
+.ghiaccio_01_Mead{
+    z-index: -5;
+    position: absolute;
+    right: 2vw;
+    top:57vh;
+    width: 92px;
+    opacity: 0;
+}
+
+
+.imgs_Mead{
+    width: 100%;
+    height: 100%;
+    /* position:fixed;
+    top: 0; */
+}

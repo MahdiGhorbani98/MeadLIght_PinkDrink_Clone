@@ -1,0 +1,7 @@
+.scrollIndicator{
+ position: fixed;  
+ width: 6px;
+ top: 0;
+ left: 0;
+ background-color: rgb(253, 127, 148);
+}

@@ -1,0 +1,112 @@
+.Section2_PinkDrink{
+    margin-left: 20%;
+    color: #585863;
+    position: relative;
+
+}
+.rose{
+    padding-top: 50px;
+    width: 150px;
+    position: relative;
+    top: -350px;
+    /* opacity: 0; */
+}
+.Container_01{
+    margin-left: 40px;
+    margin-top: -350px;
+}
+.div__01{
+    display: flex;
+    font-size: 28px;
+    position: relative;
+    top: 75px;
+    margin-left: 27px;
+}
+.articles{
+    overflow: hidden;
+    margin-left: 40px;
+    height: 444px;
+}
+
+.toRight{
+    position: relative;
+    top: -222px;
+    left: 966px;    
+}
+
+.toRight .pCaption__s2{
+    display: none;
+}
+.toRight .linePink_pBold{
+    display: none;
+}
+
+.article1, .article2,.article3{
+    height: 207px;
+}
+/* .article1{
+
+}
+.article2{
+
+} */
+.article3{
+    /* display: none; */
+    position: relative;
+    top: -444px;
+}
+
+.buttons__s2{
+    position: relative;
+    top: -181px;
+    display: flex;
+    width: 280px;
+    margin-left: 40px;
+
+}
+.btn__s2{
+    margin-right: 75px;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+}
+.pHeader__s2{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.pBold__s2{
+    /* width: 40%; */
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+.pCaption__s2{
+    margin-top: 30px;
+    font-size: 16px;
+    color: #91919b;
+    width: 45%;
+}
+
+.bdiSec2{
+    position: relative;
+}
+.hand00{
+    position: absolute;
+    left: 48%;
+    top: -20px;
+    width: 384px;
+}
+
+
+.div_pHeader_nextInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nextInfo{
+    font-size: 14px;
+    margin-top: 40px;
+    margin-right: 134px;
+}

@@ -1,0 +1,66 @@
+.Section3_History_Container{
+    margin-top: 450px;
+    position: relative;
+}
+.Section3_History{
+    margin-left: 40%;
+    color: #585863;
+    position: relative;
+    height: 912px;
+    /* overflow-x: hidden; */
+    
+}
+.articles_S3{
+    overflow: hidden;
+
+}
+.roseS3{
+    padding-top: 50px;
+    width: 150px;
+    position: relative;
+    top: -300px;
+    left: 400px;
+    /* opacity: 0; */
+}
+.Container_01_S3{
+    /* margin-left: 40px; */
+    margin-top: -350px;
+}
+.div__01_S3{
+    display: flex;
+    font-size: 28px;
+    position: relative;
+    top: 75px;
+    margin-left: 27px;
+}
+
+.pHeader__s3{
+    margin-top: 40px;
+    /* margin-left: 40px; */
+    font-size: 18px;
+}
+
+.pBold__s3{
+    /* width: 40%; */
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+.pCaption__s3{
+    margin-top: 30px;
+    font-size: 16px;
+    color: #91919b;
+    width: 45%;
+}
+.story_00{
+    position: absolute;
+    left: 0;
+    top: -310px;
+    width: 322px;
+}
+.story_01{
+    position: relative;
+    left: 615px;
+    top: -215px;
+    width: 307px;
+}
