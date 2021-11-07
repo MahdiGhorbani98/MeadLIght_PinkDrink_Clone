@@ -11,6 +11,33 @@
 @import url('./SmoothScrolling.css');
 @import url('./ScrollIndiactor.css');
 
+@font-face {
+  font-family: 'Candela Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../Assets/font/CandelaBold.otf);
+}
+@font-face {
+  font-family: 'Candela Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../Assets/font/CandelaBold.otf);
+}
+@font-face {
+  font-family: 'Candela Book';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../Assets/font/CandelaBook.otf);
+}
+@font-face {
+  font-family: 'Candela Book';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../Assets/font/CandelaBook.otf);
+}
+
+
+
 *{
   box-sizing: border-box;
   margin: 0;
