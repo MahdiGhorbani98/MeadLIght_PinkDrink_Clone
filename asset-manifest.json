@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MeadLIght_PinkDrink_Clone/static/css/main.e87e9714.chunk.css",
-    "main.js": "/MeadLIght_PinkDrink_Clone/static/js/main.4a7f5b8b.chunk.js",
-    "main.js.map": "/MeadLIght_PinkDrink_Clone/static/js/main.4a7f5b8b.chunk.js.map",
+    "main.css": "/MeadLIght_PinkDrink_Clone/static/css/main.fc1f68b9.chunk.css",
+    "main.js": "/MeadLIght_PinkDrink_Clone/static/js/main.6eebf924.chunk.js",
+    "main.js.map": "/MeadLIght_PinkDrink_Clone/static/js/main.6eebf924.chunk.js.map",
     "runtime-main.js": "/MeadLIght_PinkDrink_Clone/static/js/runtime-main.92f87aac.js",
     "runtime-main.js.map": "/MeadLIght_PinkDrink_Clone/static/js/runtime-main.92f87aac.js.map",
     "static/js/2.0a42050f.chunk.js": "/MeadLIght_PinkDrink_Clone/static/js/2.0a42050f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9afe857e.chunk.js": "/MeadLIght_PinkDrink_Clone/static/js/3.9afe857e.chunk.js",
     "static/js/3.9afe857e.chunk.js.map": "/MeadLIght_PinkDrink_Clone/static/js/3.9afe857e.chunk.js.map",
     "index.html": "/MeadLIght_PinkDrink_Clone/index.html",
-    "static/css/main.e87e9714.chunk.css.map": "/MeadLIght_PinkDrink_Clone/static/css/main.e87e9714.chunk.css.map",
+    "static/css/main.fc1f68b9.chunk.css.map": "/MeadLIght_PinkDrink_Clone/static/css/main.fc1f68b9.chunk.css.map",
     "static/js/2.0a42050f.chunk.js.LICENSE.txt": "/MeadLIght_PinkDrink_Clone/static/js/2.0a42050f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MeadLIght_PinkDrink_Clone/static/media/texture.6572d9db.jpg",
     "static/media/Plus.5db9b7e1.png": "/MeadLIght_PinkDrink_Clone/static/media/Plus.5db9b7e1.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.92f87aac.js",
     "static/js/2.0a42050f.chunk.js",
-    "static/css/main.e87e9714.chunk.css",
-    "static/js/main.4a7f5b8b.chunk.js"
+    "static/css/main.fc1f68b9.chunk.css",
+    "static/js/main.6eebf924.chunk.js"
   ]
 }
