@@ -93,7 +93,9 @@ export default function MeadlightBottle(props) {
 
 
   useEffect(() => {
-    gsap.from(rotateGSAP.current.rotation , 
+    let tl = gsap.timeline();
+
+    tl.from(rotateGSAP.current.rotation , 
       {
         y:-9,
         duration:3.5,
@@ -101,6 +103,7 @@ export default function MeadlightBottle(props) {
         
       }
     );
+    tl.set('body',{overflowY:'scroll'})
   }, [])
 
 
